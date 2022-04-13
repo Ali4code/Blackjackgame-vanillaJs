@@ -1,0 +1,65 @@
+h1 {
+    color: goldenrod;
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(blackjack.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+button{
+    color: #016f32 ;
+    background-color: goldenrod;
+    width: 150px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 2px ;
+    margin-bottom: 2px;
+}
+#start-p{
+    font-style: italic;
+}
+.btn{
+    display: none;
+  
+}
+.container {
+    margin: 1em;
+    width: 13em;
+    height: 20em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 10px;
+    display:inline-block;
+    background-color: white;
+    color: black;
+    text-align: left;
+    
+}
+.sections {
+    margin:0 auto;
+    width: auto;
+    clear: both;
+    padding: 1%;
+}
+img {
+    background: transparent;
+    padding: 0.5em;
+}
+.secondshape {
+    text-align: right;
+    size: 10em;
+    
+
+}
+.cardnumber {
+    text-align: center;
+    font-size: 2em;
+}
